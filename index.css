@@ -1,0 +1,21 @@
+body {
+    padding: 10px;
+    margin: 0;
+    min-width: 400px;
+}
+
+button {
+    margin: 10px;
+    bottom: none;
+    background-color: #5f9341;
+    color:white;
+    border: none;
+    padding: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+}
